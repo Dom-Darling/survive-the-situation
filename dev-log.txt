@@ -1,0 +1,28 @@
+
+> survive-the-situation@0.0.0 dev
+> vite
+
+
+  VITE v6.2.4  ready in 152 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
+5:58:22 PM [vite] vite.config.js changed, restarting server...
+✘ [ERROR] Expected ";" but found ":"
+
+    vite.config.js:3:12:
+      3 │   strictPort: true // if 5173 is taken, it will throw an error inst...
+        │             ^
+        ╵             ;
+
+failed to load config from /Users/dominichi/survive-the-situation/vite.config.js
+5:58:22 PM [vite] Build failed with 1 error:
+vite.config.js:3:12: ERROR: Expected ";" but found ":"
+5:58:22 PM [vite] server restart failed
+5:58:51 PM [vite] vite.config.js changed, restarting server...
+5:58:51 PM [vite] server restarted.
+6:15:38 PM [vite] vite.config.js changed, restarting server...
+6:15:39 PM [vite] server restarted.
+6:17:31 PM [vite] vite.config.js changed, restarting server...
+6:17:31 PM [vite] server restarted.
