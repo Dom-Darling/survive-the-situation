@@ -12,7 +12,7 @@ app.get('/api/tips', (req, res) => {
     'Keep calm and assess the situation.',
     'Always have a backup plan.',
   ];
-  res.json(tips);
+  res.json(tips);np
 });
 
 // New route to fetch challenges
